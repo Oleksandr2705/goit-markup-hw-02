@@ -94,12 +94,12 @@ body {
   line-height: 1.19;
   color: #ffffff;
 }
-.adress-text {
+.adr-text {
   font-weight: normal;
   line-height: 1.7;
   color: #ffffff;
 }
-.adress-mail {
+.adr-mail {
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.6);
 }
