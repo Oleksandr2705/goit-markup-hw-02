@@ -2,7 +2,7 @@ body {
   background-color: #ffffff;
 }
 /* header */
-.logo {
+.logotip {
   color: #000000;
   font-family: Raleway;
   font-style: normal;
@@ -11,7 +11,7 @@ body {
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
-.logo-web {
+.logotip-end {
   color: #2196f3;
   font-family: Raleway;
   font-style: normal;
@@ -20,7 +20,7 @@ body {
   line-height: 1.19;
   letter-spacing: 0.03em;
 }
-.site-nav-list {
+.site-list {
   color: #212121;
   font-family: Roboto;
   font-style: normal;
