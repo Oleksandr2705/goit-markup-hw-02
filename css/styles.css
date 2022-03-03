@@ -4,25 +4,23 @@ body {
   letter-spacing: 0.03em;
   font-size: 14px;
   font-weight: 500;
+  font-style: normal;
 }
 /* header */
 .logotip {
   color: #000000;
   font-family: Raleway;
-  font-style: normal;
   font-size: 26px;
   line-height: 1.19;
 }
 .logotip-end {
   color: #2196f3;
   font-family: Raleway;
-  font-style: normal;
   font-size: 26px;
   line-height: 1.19;
 }
 .site-list {
   color: #212121;
-  font-style: normal;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
@@ -34,8 +32,6 @@ body {
 }
 .contacts {
   color: #757575;
-  font-style: normal;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
@@ -45,7 +41,6 @@ body {
 }
 .hero-title {
   color: #ffffff;
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.3;
@@ -55,7 +50,6 @@ body {
 .hero-button-text {
   background-color: #2196f3;
   color: #ffffff;
-  font-style: normal;
   font-size: 16px;
   line-height: 1.8;
   letter-spacing: 0.06em;
@@ -63,34 +57,28 @@ body {
 /* преймущества */
 .benefits-title {
   color: #212121;
-  font-style: normal;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
 }
 .benefits-text {
   color: #757575;
-  font-style: normal;
-  font-weight: normal;
   line-height: 1.7;
 }
 /* чем мы занимаемся */
 .about-us-text {
   color: #212121;
-  font-style: normal;
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
 }
 /* наша команда */
 .our-team {
-  font-style: normal;
   font-size: 16px;
   line-height: 1.18;
   color: #212121;
 }
 .our-team-text {
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.18;
@@ -102,20 +90,16 @@ body {
 }
 .logo-footer {
   font-family: Raleway;
-  font-style: normal;
   font-size: 26px;
   line-height: 1.19;
   color: #ffffff;
 }
 .adress-text {
-  font-style: normal;
   font-weight: normal;
   line-height: 1.7;
   color: #ffffff;
 }
 .adress-mail {
-  font-style: normal;
-  font-weight: normal;
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.6);
 }
@@ -124,14 +108,12 @@ body {
   background-color: #f5f4fa;
 }
 .button-text {
-  font-style: normal;
   font-size: 16px;
   line-height: 1.6;
   text-align: center;
   color: #212121;
 }
 .portfolio-name {
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 36px;
@@ -139,8 +121,6 @@ body {
   color: #212121;
 }
 .portfolio-text {
-  font-style: normal;
-  font-weight: normal;
   font-size: 16px;
   line-height: 30px;
   color: #757575;
