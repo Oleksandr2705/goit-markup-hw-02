@@ -97,6 +97,7 @@ body {
   color: #ffffff;
 }
 .adr-mail {
+   text-decoration: none; 
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.6);
 }
