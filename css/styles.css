@@ -4,7 +4,13 @@ body {
   letter-spacing: 0.03em;
   font-size: 14px;
 }
-/* header */
+.link {
+text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+/* ------------header----------------------- */
 .logotip {
   color: #000000;
   font-family: Raleway;
@@ -17,12 +23,30 @@ body {
   font-size: 26px;
   line-height: 1.19;
 }
-.site-li {
+
+.heder-link {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+
+
+}
+
+
+
+
+.site-list {
   color: #212121;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
-.link {
+.link-portfo {
   color: #212121;
 }
 .link-current {
@@ -33,7 +57,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
-/* main */
+/* -----------main---------------------- */
 .hero {
   background-color: #2f303a;
 }
@@ -46,13 +70,14 @@ body {
   letter-spacing: 0.06em;
 }
 .hero-button-text {
+  font-family: inherit;
   background-color: #2196f3;
   color: #ffffff;
   font-size: 16px;
   line-height: 1.8;
   letter-spacing: 0.06em;
 }
-/* преймущества */
+/*----------- преймущества --------------------*/
 .benefits-title {
   color: #212121;
   font-size: 14px;
@@ -63,14 +88,14 @@ body {
   color: #757575;
   line-height: 1.7;
 }
-/* чем мы занимаемся */
+/* ----------чем мы занимаемся ------------------*/
 .about-us-text {
   color: #212121;
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
 }
-/* наша команда */
+/*----------- наша команда -------------------- */
 .our-team {
   font-size: 16px;
   line-height: 1.18;
@@ -81,7 +106,7 @@ body {
   line-height: 1.18;
   color: #757575;
 }
-/* подвал */
+/* --------------подвал -------------------------*/
 .adress {
   background-color: #2f303a;
 }
@@ -100,11 +125,12 @@ body {
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.6);
 }
-/* Портфолио */
+/* ------------Портфолио --------------------------*/
 .button-set {
   background-color: #f5f4fa;
 }
 .button-li {
+  font-family: inherit;
   font-size: 16px;
   line-height: 1.6;
   text-align: center;
