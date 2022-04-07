@@ -51,6 +51,13 @@ body {
 .link-current {
   color: #2196f3;
 }
+.link-current :hover {
+  color: #2196f3;
+}
+.link-current :focus {
+  color: #2196f3;
+}
+
 .contacts {
   color: #757575;
   line-height: 1.14;
