@@ -5,12 +5,13 @@ body {
   font-size: 14px;
 }
 .link {
-text-decoration: none;
+  text-decoration: none;
 }
 .list {
   list-style: none;
 }
 /* ------------header----------------------- */
+
 .logotip {
   color: #000000;
   font-family: Raleway;
@@ -24,22 +25,20 @@ text-decoration: none;
   line-height: 1.19;
 }
 
-.heder-link {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.02em;
-
-color: #212121;
-
-
-
+.heder-li {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.heder-li :hover {
+  color: #2196f3;
 }
 
-
-
+.heder-li :focus {
+  color: #2196f3;
+}
 
 .site-list {
   color: #212121;
