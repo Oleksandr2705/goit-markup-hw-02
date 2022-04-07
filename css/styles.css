@@ -2,9 +2,9 @@ body {
   background-color: #ffffff;
   font-family: Roboto;
   letter-spacing: 0.03em;
-  font-size: 14px; 
-  }
-  /* header */
+  font-size: 14px;
+}
+/* header */
 .logotip {
   color: #000000;
   font-family: Raleway;
@@ -83,7 +83,7 @@ body {
 }
 /* подвал */
 .adress {
-    background-color: #2f303a;
+  background-color: #2f303a;
 }
 .logo-footer {
   font-family: Raleway;
