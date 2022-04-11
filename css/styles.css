@@ -32,11 +32,11 @@ body {
   letter-spacing: 0.02em;
   color: #212121;
 }
-.heder-li :hover {
+.heder-li:hover {
   color: #2196f3;
 }
 
-.heder-li :focus {
+.heder-li:focus {
   color: #2196f3;
 }
 
@@ -51,10 +51,10 @@ body {
 .link-current {
   color: #2196f3;
 }
-.link-current :hover {
+.link-current:hover {
   color: #2196f3;
 }
-.link-current :focus {
+.link-current:focus {
   color: #2196f3;
 }
 
