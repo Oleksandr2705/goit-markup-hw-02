@@ -7,6 +7,7 @@ body {
 .link {
   text-decoration: none;
 }
+/* убираем точки*/
 .list {
   list-style: none;
 }
