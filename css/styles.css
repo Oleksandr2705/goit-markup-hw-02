@@ -4,6 +4,7 @@ body {
   letter-spacing: 0.03em;
   font-size: 14px;
 }
+/*убираем подчекивание*/
 .link {
   text-decoration: none;
 }
@@ -64,6 +65,19 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
+.site-nav-list-mail:hover {
+color: #2196f3;
+}
+.site-nav-list-mail:focus {
+color: #2196f3;
+}
+.site-nav-list-contacts:hover {
+  color: #2196f3;
+}
+.site-nav-list-contacts:focus {
+  color: #2196f3;
+}
+
 /* -----------main---------------------- */
 .hero {
   background-color: #2f303a;
